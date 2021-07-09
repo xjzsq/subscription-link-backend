@@ -48,10 +48,10 @@ cookies@~0.8.0:
     depd "~2.0.0"
     keygrip "~1.1.0"
 
-cryptojs@^2.5.3:
-  version "2.5.3"
-  resolved "https://registry.nlark.com/cryptojs/download/cryptojs-2.5.3.tgz#909547ecf15bac456e275459b39f2ef45d7fcbb9"
-  integrity sha1-kJVH7PFbrEVuJ1RZs58u9F1/y7k=
+crypto-js@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.npm.taobao.org/crypto-js/download/crypto-js-4.0.0.tgz#2904ab2677a9d042856a2ea2ef80de92e4a36dcc"
+  integrity sha1-KQSrJnep0EKFai6i74DekuSjbcw=
 
 debug@~3.1.0:
   version "3.1.0"
