@@ -1,0 +1,10 @@
+{
+  "name": "vpn-subscription-link",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "cryptojs": "^2.5.3",
+    "koa": "^2.13.1"
+  }
+}
